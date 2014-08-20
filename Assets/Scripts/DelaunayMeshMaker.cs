@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class DalaunayMeshMaker : MonoBehaviour {
+public class DelaunayMeshMaker : MonoBehaviour {
 
 	List<Vector3> vec;
 	Delaunay d;
